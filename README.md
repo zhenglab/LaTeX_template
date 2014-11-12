@@ -1,4 +1,4 @@
 LaTeX_template
 ==============
 
-LaTeX howto and template for document of zhenglab.
+LaTeX HowTo and template for document of zhenglab.
