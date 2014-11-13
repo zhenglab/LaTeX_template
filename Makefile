@@ -1,4 +1,4 @@
-TeXFileName = brief_manual
+TeXFileName = template
 
 sources = ${TeXFileName}.tex ${TeXFileName}.bib matlab_code.m
 
